@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Review Comments plugin",
+  "description": "This extension has commonly used Review Comments",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
